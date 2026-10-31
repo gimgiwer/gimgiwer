@@ -1,0 +1,351 @@
+{
+ "key": "4a16d2ff",
+ "stars": 4,
+ "contributions": 916,
+ "repos": 14,
+ "followers": 0,
+ "languages": [
+  [
+   "C",
+   1093090392
+  ],
+  [
+   "Assembly",
+   10041269
+  ],
+  [
+   "Perl",
+   1112542
+  ],
+  [
+   "Python",
+   717530
+  ],
+  [
+   "C++",
+   670566
+  ],
+  [
+   "HTML",
+   171253
+  ],
+  [
+   "SmPL",
+   121973
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 4,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 62,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 31,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 6
+ },
+ "pins": [
+  {
+   "name": "kernel-realme-gt-neo-2t",
+   "url": "https://github.com/gimgiwer/kernel-realme-gt-neo-2t",
+   "text": "NeoCore: Custom Linux 4.19 kernel for Realme GT Neo 2T (RMX3357 / MT6893) with KernelSU-Next, SuSFS and performance tuning",
+   "fork": false,
+   "stars": 3,
+   "language": "C",
+   "topics": [
+    "android-13",
+    "android-kernel",
+    "custom-kernel",
+    "kernelsu-next",
+    "linux-kernel",
+    "mediatek",
+    "mt6893",
+    "realme",
+    "root",
+    "susfs"
+   ]
+  },
+  {
+   "name": "layout-switcher",
+   "url": "https://github.com/gimgiwer/layout-switcher",
+   "text": "Wayland layout switcher daemon with cyclic double-press",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "legion-audio-presets",
+   "url": "https://github.com/gimgiwer/legion-audio-presets",
+   "text": "Nahimic IRs and EasyEffects presets for Lenovo Legion R7000 AHP10",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "legion-83m0-linux-patches",
+   "url": "https://github.com/gimgiwer/legion-83m0-linux-patches",
+   "text": "DSDT patches, EC quirks, and hardware fixes for Lenovo Legion 83M0 (15AHP9 / 16AHP9 / R7000) under Linux",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "audiopro-c3",
+   "url": "https://github.com/gimgiwer/audiopro-c3",
+   "text": "Audio Pro Addon C3 (Linkplay A28 / MT7628AN) Rooted Stock Firmware, Tools & Hardware Docs",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "kernel-realme-gt-neo-2t",
+   "url": "https://github.com/gimgiwer/kernel-realme-gt-neo-2t",
+   "text": "NeoCore: Custom Linux 4.19 kernel for Realme GT Neo 2T (RMX3357 / MT6893) with KernelSU-Next, SuSFS and performance tuning",
+   "fork": false,
+   "stars": 3,
+   "language": "C",
+   "topics": [
+    "android-13",
+    "android-kernel",
+    "custom-kernel",
+    "kernelsu-next",
+    "linux-kernel",
+    "mediatek",
+    "mt6893",
+    "realme",
+    "root",
+    "susfs"
+   ]
+  },
+  {
+   "name": "legion-audio-presets",
+   "url": "https://github.com/gimgiwer/legion-audio-presets",
+   "text": "Nahimic IRs and EasyEffects presets for Lenovo Legion R7000 AHP10",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "gimgiwer",
+   "url": "https://github.com/gimgiwer/gimgiwer",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "swiftify",
+   "url": "https://github.com/gimgiwer/swiftify",
+   "text": "A Spotify player for the desktop, built with Qt Quick and a Rust core around librespot",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "KernelSU-Next",
+   "url": "https://github.com/gimgiwer/KernelSU-Next",
+   "text": "An advanced Kernel based root solution for Android",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "NetProxy-Magisk",
+   "url": "https://github.com/gimgiwer/NetProxy-Magisk",
+   "text": "Based on the sing-box core, this Android proxy module supports one-click start/stop of transparent proxy and is designed for Android devices.",
+   "fork": true,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "NekoBoxForAndroid",
+   "url": "https://github.com/gimgiwer/NekoBoxForAndroid",
+   "text": "NekoBoxF(ork) for Android / sing-box / universal proxy toolchain for Android",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "zeromount",
+   "url": "https://github.com/gimgiwer/zeromount",
+   "text": "Mountless module loading for rooted Android. Kernel-level VFS path redirection — zero mount table pollution. SUSFS integration, WebUI, bootloop guard, and strategy fallback.",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "legion-83m0-linux-patches",
+   "url": "https://github.com/gimgiwer/legion-83m0-linux-patches",
+   "text": "DSDT patches, EC quirks, and hardware fixes for Lenovo Legion 83M0 (15AHP9 / 16AHP9 / R7000) under Linux",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "yandex-ir-remote-yndx-0006-stock-firmware",
+   "url": "https://github.com/gimgiwer/yandex-ir-remote-yndx-0006-stock-firmware",
+   "text": "Factory 1MB Stock SPI Flash Dump for Yandex Smart IR Remote (YNDX-0006 / TYSW_012_ZK_MAIN_V1.1 ESP8266)",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "audiopro-c3",
+   "url": "https://github.com/gimgiwer/audiopro-c3",
+   "text": "Audio Pro Addon C3 (Linkplay A28 / MT7628AN) Rooted Stock Firmware, Tools & Hardware Docs",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "layout-switcher",
+   "url": "https://github.com/gimgiwer/layout-switcher",
+   "text": "Wayland layout switcher daemon with cyclic double-press",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "xwayland-satellite",
+   "url": "https://github.com/gimgiwer/xwayland-satellite",
+   "text": "Xwayland outside your Wayland",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "niri",
+   "url": "https://github.com/gimgiwer/niri",
+   "text": "A scrollable-tiling Wayland compositor.",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  }
+ ]
+}
